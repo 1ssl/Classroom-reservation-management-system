@@ -1,0 +1,11 @@
+﻿  main.cpp
+  manager.cpp
+  orderFile.cpp
+  student.cpp
+E:\Desktop\3060教室预约管理系统\3060教室预约管理系统\student.cpp(115,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\Desktop\3060教室预约管理系统\3060教室预约管理系统\student.cpp(118,9): warning C4018: “<”: 有符号/无符号不匹配
+E:\Desktop\3060教室预约管理系统\3060教室预约管理系统\student.cpp(378,29): warning C4018: “<=”: 有符号/无符号不匹配
+  teacher.cpp
+E:\Desktop\3060教室预约管理系统\3060教室预约管理系统\teacher.cpp(194,29): warning C4018: “<=”: 有符号/无符号不匹配
+  正在生成代码...
+  3060教室预约管理系统.vcxproj -> E:\Desktop\3060教室预约管理系统\Debug\3060教室预约管理系统.exe

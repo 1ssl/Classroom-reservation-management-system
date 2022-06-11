@@ -1,0 +1,1 @@
+date:4 interval:2 stuId:1001 stuName:cary roomId:4 status:1

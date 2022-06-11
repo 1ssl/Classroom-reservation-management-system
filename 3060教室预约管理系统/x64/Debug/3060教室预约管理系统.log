@@ -1,0 +1,13 @@
+﻿  main.cpp
+  manager.cpp
+  orderFile.cpp
+E:\Desktop\3060教室预约管理系统\3060教室预约管理系统\orderFile.cpp(26,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Desktop\3060教室预约管理系统\3060教室预约管理系统\orderFile.cpp(34,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Desktop\3060教室预约管理系统\3060教室预约管理系统\orderFile.cpp(42,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Desktop\3060教室预约管理系统\3060教室预约管理系统\orderFile.cpp(50,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Desktop\3060教室预约管理系统\3060教室预约管理系统\orderFile.cpp(58,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Desktop\3060教室预约管理系统\3060教室预约管理系统\orderFile.cpp(66,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  student.cpp
+  teacher.cpp
+  正在生成代码...
+  3060教室预约管理系统.vcxproj -> E:\Desktop\3060教室预约管理系统\x64\Debug\3060教室预约管理系统.exe
